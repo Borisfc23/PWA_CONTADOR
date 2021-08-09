@@ -7,8 +7,8 @@
   "start_url": "./",
   "scope": "./",
   "lang": "es-PE",
-  "orientation": "portrait",
   "display": "fullscreen",
+  "orientation": "portrait",
   "icons": [
     {
       "src": "assets/manifest-icon-192.png",
