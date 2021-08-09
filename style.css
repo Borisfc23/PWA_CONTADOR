@@ -1,0 +1,25 @@
+body {
+  background-color: #333;
+  text-align: center;
+}
+.menor {
+  color: red;
+}
+.mayor {
+  color: blue;
+}
+button {
+  padding: 0.5rem 1rem;
+  color: #000;
+  outline: none;
+  margin: 0.5rem;
+  border-radius: 0.4rem;
+}
+div > button:nth-last-child(1) {
+  background: red;
+  color: #fff;
+}
+div > button:nth-last-child(2) {
+  background: blue;
+  color: #fff;
+}
